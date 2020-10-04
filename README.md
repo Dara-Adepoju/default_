@@ -1,1 +1,1 @@
-# Data Science Nigeria AI qualification Bootcamp 
+# DataScienceNigeria AI Qualification Bootcamp 
